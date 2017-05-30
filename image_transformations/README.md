@@ -34,7 +34,7 @@ We have to research for standard image transformations that will detect each lab
 
 Normalized Difference Vegetation Index: The normalized difference vegetation index (NDVI) is a simple graphical indicator that can be used to analyze remote sensing measurements, typically but not necessarily from a space platform, and assess whether the target being observed contains live green vegetation or not.
 
-!https://upload.wikimedia.org/wikipedia/commons/9/94/NDVI_062003.png!
+![Example](https://upload.wikimedia.org/wikipedia/commons/9/94/NDVI_062003.png)
 
 https://pypi.python.org/pypi/landsat-util/0.13.1
 
@@ -52,7 +52,7 @@ Normalized Difference Water Index (NDWI) may refer to one of at least two remote
 
 One is used to monitor changes in water content of leaves, using near-infrared (NIR) and short-wave infrared (SWIR) wavelengths, proposed by Gao in 1996
 
-!http://www.apsdps.ap.gov.in/images/ndwi_june_tumb.png?url=images/ndwi_june.png!
+![Example](http://www.apsdps.ap.gov.in/images/ndwi_june_tumb.png?url=images/ndwi_june.png)
 
 #### MNDWI
 
@@ -76,7 +76,7 @@ http://pythonfmask.org/en/latest/
 
 #### SPARCS
 
-Spatial Procedures for Automated Removal of Cloud and Shadow. Algorithm that improves Fmask cloud detection (presented in 2014)[www.mdpi.com/2072-4292/6/6/4907/pdf]
+Spatial Procedures for Automated Removal of Cloud and Shadow. Algorithm that improves Fmask cloud detection [presented in 2014](www.mdpi.com/2072-4292/6/6/4907/pdf)
 
 #### NESDIS
 
